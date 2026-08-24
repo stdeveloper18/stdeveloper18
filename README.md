@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @stdeveloper18
 - 👀 I’m interested in contributes for Computer Science as a developer
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on IT Industry 
-- 📫 Jus contact me by using suvrattripthi222@gmail.com
+- 📫 Jus contact me by using suvrattripthiji@gmail.com
 - 😄 Pronouns: Chhote BHai
 - ⚡ Fun fact: I am fast Leaning
 
